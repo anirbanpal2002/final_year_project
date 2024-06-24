@@ -1,4 +1,3 @@
-<img width="869" alt="image" src="https://github.com/bISHAL-2001/FINAL_YEAR_ASD_EVALUATION/assets/81809899/a9a183b3-65be-4715-99a9-db4ab3c735f8">
 # Final Year Project: Autism Spectrum Disorder (ASD) Evaluation
 Autism Spectrum Disorder (ASD) is a complex developmental condition marked by persistent challenges in social interaction, communication, and restrictive, repetitive
 behaviors. These challenges can significantly impact various aspects of an individual's life, including education, employment, and social relationships. Early diagnosis and

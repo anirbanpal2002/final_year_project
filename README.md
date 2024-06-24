@@ -1,4 +1,4 @@
-# Final Year Project: Autism Spectrum Disorder (ASD) Evaluation
+# AI-Enhanced Diagnosis of ASD Using SVC: A Data-Driven Approach
 Autism Spectrum Disorder (ASD) is a complex developmental condition marked by persistent challenges in social interaction, communication, and restrictive, repetitive
 behaviors. These challenges can significantly impact various aspects of an individual's life, including education, employment, and social relationships. Early diagnosis and
 intervention are crucial, as they can greatly improve long-term outcomes for children with ASD. In this project, we present a novel application designed to assist in the early detection and diagnosis of ASD in children aged 1.5 to 5 years. Our app leverages a Support Vector Classifier (SVC) model trained on relevant data to assess the likelihood and typicalness of ASD. The user-friendly interface allows parents and healthcare providers to input necessary data, which the SVC model analyzes to provide a preliminary diagnosis. Furthermore, based on the model's assessment, the app recommends a customized level of therapy for the child, promoting early intervention and personalized treatment plans.

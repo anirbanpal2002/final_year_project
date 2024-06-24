@@ -40,4 +40,6 @@ Learn more from sources:
 Custom model prepared from multiple data sources. The dataset is kept private becuaase it has been prepared from multiple sources and normalised according to our need. If required please contact.
 ### Model Training and Exporting
 The dataset, formatted as a CSV file, is loaded and cleaned by addressing data type formats and empty values. Boolean values (i.e., 'Yes' and 'No') are converted to binary (0/1) format, and consistent data entries are removed from the dataset. The corrected, cleaned, and encoded data is then fed into the classifiers previously mentioned: Random Forest, Gradient Boosting, Logistic Regression, and SVC. The accuracy levels of these classifiers are compared with varying hyperparameters. The SVC classifier has demonstrated exceptional performance, achieving an accuracy of 95.986% in training and 93.439% in validation, as shown in Table mentioned below which mentions the best 2 of the considerations. Based on the dataset analysis, Logistic Regression showed poor performance, resulting in the selection of SVC without any kernel for the final model.
+
+
 <img width="855" alt="image" src="https://github.com/bISHAL-2001/FINAL_YEAR_ASD_EVALUATION/assets/81809899/cdf3d8f0-c76c-4c6a-a7fe-5970c1272a6f">

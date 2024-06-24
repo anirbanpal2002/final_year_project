@@ -51,20 +51,20 @@ The data is captured from users, who can be the child's parent, paediatrician, o
 ### Data Preprocessing and Encoding
 The input data undergoes processing in accordance with the standard Scalar format. Categorical 'yes' and 'no' responses are transformed into numerical values, with 'yes' converted to 1 and 'no' converted to 0. Additionally, columns that contain 'object' data types are encoded using the LabelEncoder() function from the sklearn.preprocessing library. The process of evaluating the level of ASD is derived from and based on the data presented in Table above, as described below:
 1. Assign Scores to Responses:
-   • For each question, assign 1 point if the response indicates a potential ASD trait (based on the criteria provided earlier).
+   - For each question, assign 1 point if the response indicates a potential ASD trait (based on the criteria provided earlier).
 2. Calculate Total Score:
-   • Sum the scores from all questions.
+   - Sum the scores from all questions.
 4. Convert Score to Percentage:
-    • Calculate the percentage of ASD likelihood by dividing the total score by the maximum possible score (73) and then multiplying by 100.
+   - Calculate the percentage of ASD likelihood by dividing the total score by the maximum possible score (73) and then multiplying by 100.
 5. Determine ASD Level:
    - Mild ASD: 0% - 33%
    - Moderate ASD: 34% - 66%
    - Severe ASD: 67% - 100%
 #### Example calculation
 Assume the responses indicate the following potential ASD traits:
-  • Questions 1-9: 5 questions answered with options indicating ASD traits.
-  • Question 10: Answered with an option indicating an ASD trait.
-  This would give a total score of 6.
+  - Questions 1-9: 5 questions answered with options indicating ASD traits.
+  - Question 10: Answered with an option indicating an ASD trait.
+  This would give a _total score of 6_.
 **Step-by-Step Calculation**:
   1. Total Score: 6
   2. ASD Percentage: 6/73 × 100 = 8.22%

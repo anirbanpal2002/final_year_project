@@ -65,6 +65,7 @@ Assume the responses indicate the following potential ASD traits:
   - Questions 1-9: 5 questions answered with options indicating ASD traits.
   - Question 10: Answered with an option indicating an ASD trait.
   This would give a _total score of 6_.
+
 **Step-by-Step Calculation**:
   1. Total Score: 6
   2. ASD Percentage: 6/73 × 100 = 8.22%

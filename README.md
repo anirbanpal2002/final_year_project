@@ -57,9 +57,9 @@ The input data undergoes processing in accordance with the standard Scalar forma
 4. Convert Score to Percentage:
     • Calculate the percentage of ASD likelihood by dividing the total score by the maximum possible score (73) and then multiplying by 100.
 5. Determine ASD Level:
-    • Mild ASD: 0% - 33%
-    • Moderate ASD: 34% - 66%
-    • Severe ASD: 67% - 100%
+   - Mild ASD: 0% - 33%
+   - Moderate ASD: 34% - 66%
+   - Severe ASD: 67% - 100%
 #### Example calculation
 Assume the responses indicate the following potential ASD traits:
   • Questions 1-9: 5 questions answered with options indicating ASD traits.

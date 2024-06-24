@@ -71,3 +71,10 @@ Assume the responses indicate the following potential ASD traits:
   1. Total Score: 6
   2. ASD Percentage: 6/73 × 100 = 8.22%
   3. ASD Level: 8.22% falls into the Mild ASD category.
+
+
+## Authors
+
+- [Bishal Kumar Ghosh](https://www.linkedin.com/in/bishal-kumar-ghosh-aba599313/)
+- [Anirban Pal](https://www.linkedin.com/in/anirban-pal-4b6166235/)
+
